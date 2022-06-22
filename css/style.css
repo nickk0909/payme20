@@ -1,0 +1,30 @@
+
+body{
+ background-image: url(../image/dainis-graveris-nkSU6AMtpTQ-unsplash.jpg);
+ width: 100%;
+ height: auto;
+ background-size: 100vw 150vw;
+ background-repeat:repeat;
+}
+
+.table-hover tr th{
+    border: 5px black solid;
+    font-size: 25px;
+    background-color: red;
+    text-align: center;
+    color: rgb(243, 243, 243);
+}
+.table-hover tr td{
+    border: 5px black solid;
+    font-size: 20px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    color: red;
+}
+
+.form-control{
+    width: 50%;
+    color: red;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
